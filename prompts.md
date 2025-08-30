@@ -10,4 +10,4 @@ Apply a minimalistic, modern style to the page using common CSS selectors (ID, t
   * Add a simple, modern font for the whole page
 
   ## Prompt 2
-  Use a site called placeholder.co to add a small rounded placeholder image inside the same list item as the author name so that it appears in line with the name.
+  Use a site called placeholder.co to add a small rounded placeholder image inside the same list item as the author name so it appears in line with the name.
