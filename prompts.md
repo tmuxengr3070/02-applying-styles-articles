@@ -8,3 +8,6 @@ Apply a minimalistic, modern style to the page using common CSS selectors (ID, t
   * Style the metadata so the items appear on one line
   * Keep headings easy to read and paragraphs well-spaced
   * Add a simple, modern font for the whole page
+
+  ## Prompt 2
+  Use a site called placeholder.co to add a small rounded placeholder image inside the same list item as the author name so that it appears in line with the name.
